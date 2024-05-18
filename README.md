@@ -9,7 +9,7 @@ The detection of Twitter bots has become essential in combating misinformation a
 
 TwiBot-22 is available at [Google Drive](https://drive.google.com/drive/folders/1YwiOUwtl8pCd2GD97Q_WEzwEUtSPoxFs?usp=sharing). You should apply for access. See more at [TwiBot-22 github repository](https://github.com/LuoUndergradXJTU/TwiBot-22).
 
-Please download the dataset to the folder Dataset. 
+Please download the dataset to a folder called "Dataset". 
 
 ### Requirements
 
